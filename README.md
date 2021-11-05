@@ -18,3 +18,16 @@ For Windows:<br>
 For Linux:<br>
   --> Type in terminal: `python3 ytd.py`
 
+![Image of Banner](/images/youtube.JPG)
+
+--> Type in the url or copy and paste the YouTube URL.<br>
+--> Hit ENTER button on your keyboard.<br>
+--> Type in the location in which you want to save the video.<br>
+--> Hit ENTER button on your keyboard.<br>
+--> Select the video quality by typing in its corresponding number.<br>
+--> Hit ENTER button on your keyboard.<br>
+
+![Image of Banner](/images/allSteps.JPG)
+
+![Image of Banner](/images/downloaded.JPG)
+
