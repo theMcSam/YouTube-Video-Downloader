@@ -10,8 +10,11 @@ Simple program in python for downloading YouTube videos.
   
 3. Install requirements:<br>
   --> For Windows: `pip install -r requiremrnts.txt`<br>
-  --> For Linux: `pip3 install -r requirements.txt`
-  
+  --> For Linux: `pip3 install -r requirements.txt`<br>
+
+4. Update pytube.<br>
+--> command: `pip install git+https://github.com/Zeecka/pytube@fix_1060`
+
 # Usage
 For Windows:<br>
   --> Type in terminal: `python ytd.py`<br>
