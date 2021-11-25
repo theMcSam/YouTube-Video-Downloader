@@ -44,11 +44,9 @@ def main():
 		global youTubeUrl
 		print("Enter the YouTube url here.")
 		youTubeUrl = str(input(" :> "))
-		if "youtube.com" and "youtu.be" not in youTubeUrl:
+		if "youtube.com" not in youTubeUrl and "youtu.be" not in youTubeUrl:
 			print(fail+" Invalid URL!!" )
 			insertURL()
-		else:
-			pass
 
 	def insertPath():
 		global path
